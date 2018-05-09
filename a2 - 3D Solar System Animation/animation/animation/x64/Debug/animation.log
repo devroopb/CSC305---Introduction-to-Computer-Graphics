@@ -1,0 +1,48 @@
+﻿  main.cpp
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(31): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(31): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(37): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(37): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(43): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(43): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(49): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(49): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(55): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(55): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(61): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(61): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(67): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(67): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(74): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(74): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(88): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(89): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(113): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(117): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(119): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(127): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(129): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(137): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(139): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(152): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(175): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(177): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(181): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(190): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(192): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(199): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(207): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(216): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(218): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(226): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(228): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(250): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(251): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(252): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(254): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(255): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(256): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\anu\desktop\csc 305\assignments\a2\animation\animation\main.cpp(257): warning C4305: '+=': truncation from 'double' to 'float'
+  animation.vcxproj -> C:\Users\Anu\Desktop\CSC 305\Assignments\a2\animation\x64\Debug\animation.exe
+  animation.vcxproj -> C:\Users\Anu\Desktop\CSC 305\Assignments\a2\animation\x64\Debug\animation.pdb (Partial PDB)
